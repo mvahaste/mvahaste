@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**val8119/val8119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![val8119's github stats](https://github-readme-stats.vercel.app/api?username=val8119&theme=dracula&show_icons=true)
 
 Here are some ideas to get you started:
 
