@@ -10,6 +10,4 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-  <br>
-  Projects on pause due to military service :'(
 </p>
